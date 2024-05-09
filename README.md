@@ -86,7 +86,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 
 ## OUTPUT
-![alt text](1.png)
+![image](https://github.com/SSPriyadharshini/Linux-IPC-Pipes/assets/144870443/525f5fca-4857-4495-969f-5129400b7939)
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```c
@@ -106,7 +107,9 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![alt text](2.png)
+![image](https://github.com/SSPriyadharshini/Linux-IPC-Pipes/assets/144870443/9a24c87d-efb9-464b-89e8-97d965675d15)
+![image](https://github.com/SSPriyadharshini/Linux-IPC-Pipes/assets/144870443/04eab989-7ed7-4613-a097-33d89ee5bfeb)
+
 
 
 # RESULT:
